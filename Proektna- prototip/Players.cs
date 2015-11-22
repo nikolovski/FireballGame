@@ -43,9 +43,6 @@ namespace Proektna__prototip
 
         }
 
-        private void Players_Load(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }

@@ -70,3 +70,13 @@ C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- protot
 C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
 C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.HighScores.resources
 C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csprojResolveAssemblyReference.cache
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Players.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Controls.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NewGame.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.GameMenu.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna__prototip.HighScores.resources
+C:\Users\Martino\Documents\GitHub\FireballGame\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache
