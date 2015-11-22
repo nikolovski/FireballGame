@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A0D9F5C-AC5C-4A2E-BF3D-7F58E2C3F914}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proektna__prototip</RootNamespace>
+    <AssemblyName>Proektna- prototip</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Players.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Players.Designer.cs">
+      <DependentUpon>Players.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewGame.Designer.cs">
+      <DependentUpon>NewGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameMenu.Designer.cs">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls.Designer.cs">
+      <DependentUpon>Controls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Score.cs" />
+    <Compile Include="HighScores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HighScores.Designer.cs">
+      <DependentUpon>HighScores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ball.cs" />
+    <EmbeddedResource Include="Players.resx">
+      <DependentUpon>Players.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls.resx">
+      <DependentUpon>Controls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewGame.resx">
+      <DependentUpon>NewGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameMenu.resx">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="HighScores.resx">
+      <DependentUpon>HighScores.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\pozadina glavna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\nova igra kopce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\kontroli kopce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\izlez kopce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\nova igra kopce stisnato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\nova igra kopce neselektirano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\kontroli kopce neselektirano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\kontroli  kopce stisnato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\izlez kopce stisnato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\izlez kopce neselektirano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\topce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\398306_305247116219061_114855831924858_692579_1182081386_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina_bmp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\drvo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\igra_pozadina5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drvo_zvuk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voda_zvuk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voda_celovreme.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\rezultati kopce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\rezultati kopce stisnato.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\rezultati kopce neselektirano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zvuci\ogan_zvuk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zvuci\gasenje_topka.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\ognenatopka.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\topce_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\topce_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\topce_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sliki\topce_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="zvuci\glavna_zvuk.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

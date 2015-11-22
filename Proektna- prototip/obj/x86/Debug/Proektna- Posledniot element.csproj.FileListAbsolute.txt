@@ -1,0 +1,72 @@
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.ImeNaIgraci.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Kontroli.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NovaIgra.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Pocetna.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Rezultati.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.ImeNaIgraci.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Kontroli.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NovaIgra.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Pocetna.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Rezultati.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.ImeNaIgraci.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Kontroli.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NovaIgra.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Pocetna.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Rezultati.resources
+D:\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csprojResolveAssemblyReference.cache
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.ImeNaIgraci.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Kontroli.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NovaIgra.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Pocetna.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Rezultati.resources
+H:\WD SmartWare.swstor\NIKOLOVSKI\Volume.d175e3c0.3bbd.11e3.824c.806e6f6e6963\DOCUMENTS\Документи\Visual Studio 2010\Projects\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csprojResolveAssemblyReference.cache
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Controls.resources
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.HighScores.resources
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Players.resources
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.GameMenu.resources
+C:\Users\Martino\Desktop\За портфолиото\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NewGame.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csprojResolveAssemblyReference.cache
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Players.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Controls.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NewGame.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.GameMenu.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna__prototip.HighScores.resources
+C:\Users\Martino\Documents\GitHub\Proektna - Posledniot element\Proektna- prototip\obj\x86\Debug\Proektna- Posledniot element.csproj.GenerateResource.Cache

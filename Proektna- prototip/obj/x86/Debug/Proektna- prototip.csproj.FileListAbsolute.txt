@@ -1,0 +1,13 @@
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\bin\Debug\Proektna- prototip.exe
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\bin\Debug\Proektna- prototip.pdb
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Properties.Resources.resources
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna- prototip.exe
+c:\users\da hip-hop bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna- prototip.pdb
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Pocetna.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Kontroli.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.ImeNaIgraci.resources
+C:\Users\Da Hip-Hop Bros\Documents\Visual Studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.NovaIgra.resources
+C:\Users\Da Hip-Hop Bros\documents\visual studio 2010\Projects\Proektna- prototip\Proektna- prototip\obj\x86\Debug\Proektna__prototip.Rezultati.resources
