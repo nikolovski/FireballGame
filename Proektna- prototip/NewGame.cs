@@ -230,7 +230,7 @@ namespace Proektna__prototip
                         }
                     
                         
-                        ig.getPocetna().Show();
+                        ig.getGameMenu().Show();
                         this.Close();
                     }
 
@@ -385,7 +385,7 @@ namespace Proektna__prototip
                             str.Close();
 
                         }
-                        ig.getPocetna().Show();
+                        ig.getGameMenu().Show();
                         this.Close();
 
                     }
@@ -728,7 +728,7 @@ private void брзоToolStripMenuItem_Click(object sender, EventArgs e)
 
 private void NovaIgra_FormClosing(object sender, FormClosingEventArgs e)
 {
-    ig.getPocetna().Show();
+    ig.getGameMenu().Show();
     SoundPlayer simpleSound = new SoundPlayer(Resources.glavna_zvuk);
     simpleSound.PlayLooping();
 }

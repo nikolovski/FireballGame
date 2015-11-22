@@ -17,7 +17,12 @@ namespace Proektna__prototip
             InitializeComponent();
             this.gameMenu = gameMenu;
         }
-       
+
+        public GameMenu getGameMenu()
+        {
+            return gameMenu;
+        }
+
         private void Players_FormClosed(object sender, FormClosedEventArgs e){gameMenu.Show();}
        
         private void cancelButton_Click(object sender, EventArgs e){gameMenu.Show(); this.Hide();}
@@ -43,6 +48,9 @@ namespace Proektna__prototip
 
         }
 
-      
+        private void Players_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
